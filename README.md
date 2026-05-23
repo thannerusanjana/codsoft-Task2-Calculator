@@ -20,5 +20,6 @@ This Calculator application is developed using Python and performs basic arithme
 3. Enter numbers and choose operations
 
 ##  Output
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/83158a00-a14b-4e53-8648-6ebf08db2019" />
 
 
